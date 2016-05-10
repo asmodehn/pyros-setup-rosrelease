@@ -1,3 +1,4 @@
+release_repo_url: https://github.com/asmodehn/pyros-setup-rosrelease.git
 tracks:
   indigo:
     actions:
