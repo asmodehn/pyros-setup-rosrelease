@@ -1,5 +1,9 @@
 ## pyros_setup (indigo) - 0.1.0-0
 
+# THIS PROJECT IS DEPRECTATED. PYROS-SETUP should not be used from ROS.
+# PYROS-SETUP is to be used from python only, via https://pypi.python.org/pypi/pyros_setup
+
+
 The packages in the `pyros_setup` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --track indigo --rosdistro indigo --override-release-repository-url https://github.com/asmodehn/pyros-setup-rosrelease.git --override-release-repository-push-url https://github.com/asmodehn/pyros-setup-rosrelease.git pyros_setup` on `Tue, 10 May 2016 03:54:39 -0000`
 
 The `pyros_setup` package was released.
